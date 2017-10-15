@@ -23,5 +23,5 @@ function dec(n)  {
 }
 
 function makeInt(n)  {
-  return parseInt(n.toString()).toEqual(a)
+  return parseInt(n.toString()).toEqual(n)
 }
